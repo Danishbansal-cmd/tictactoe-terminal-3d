@@ -1,6 +1,12 @@
 # tictactoe-terminal-3d
 it is 1d but work like 3d
 
+------------------------------
+------------------------------
+PLEASE READ THIS FILE IN RAW MODE
+--------------------------------
+-------------------------------
+
 well this is a terminal 3d game which could be played by the two players.
 according to me and the aspects of the 3d tic tac toe the winning conditions are little 
 different than normal tic tac toe
